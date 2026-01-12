@@ -5,3 +5,6 @@ this is a new line
 new line again
 
 this is another example of what is different
+
+
+Please help me understand git
