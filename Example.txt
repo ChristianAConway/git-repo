@@ -1,1 +1,7 @@
 This is an example
+
+this is a new line
+
+new line again
+
+this is another example of what is different
